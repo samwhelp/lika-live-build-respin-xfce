@@ -5,6 +5,21 @@
 ##
 
 
+##
+## ## Search
+##
+## ``` sh
+##
+## apt-cache search gtk-theme
+##
+## apt-cache search icon-theme
+##
+## apt-cache search cursor-theme
+##
+## apt-cache search kde | grep theme
+##
+## ```
+##
 
 
 ##
@@ -123,3 +138,12 @@ greybird-gtk-theme
 
 materia-gtk-theme
 #materia-kde
+
+
+
+
+##
+## ## Package / Theme / orchis
+##
+
+orchis-gtk-theme
