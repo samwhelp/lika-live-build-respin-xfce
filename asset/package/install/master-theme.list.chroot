@@ -8,11 +8,52 @@
 
 
 ##
-## ## Package / Theme
+## ## Package / Theme / Util
 ##
 
+gtk-update-icon-cache
+
+gtk2-engines
 gtk2-engines-murrine
+gtk2-engines-aurora
+#gtk2-engines-pixbuf
+#gtk2-engines-cleanice
+#gtk2-engines-qtcurve
+#gtk2-engines-sugar
+#gtk2-engines-oxygen
+
+librsvg2-2
+librsvg2-bin
+librsvg2-common
+
 lxappearance
+
+
+
+
+##
+## ## Package / Theme / hicolor
+##
+
+hicolor-icon-theme
+
+
+
+
+##
+## ## Package / Theme / gnome
+##
+
+gnome-icon-theme
+
+
+
+
+##
+## ## Package / Theme / adwaita
+##
+
+adwaita-icon-theme
 
 
 
@@ -72,3 +113,13 @@ papirus-icon-theme
 ##
 
 greybird-gtk-theme
+
+
+
+
+##
+## ## Package / Theme / materia
+##
+
+materia-gtk-theme
+#materia-kde
