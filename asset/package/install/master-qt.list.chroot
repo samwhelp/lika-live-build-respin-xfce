@@ -55,7 +55,7 @@ qt5ct
 ## ## Package / qdbus
 ##
 
+qtchooser
 qdbus
 #qdbus-qt5
 #qdbus-qt6
-#qtchooser
