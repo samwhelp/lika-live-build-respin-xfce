@@ -21,8 +21,10 @@ qt6-gtk-platformtheme
 
 ##
 ## ## Package / svg
-## 
-## `apt-cache search svg | grep qt`
+##
+## ``` sh
+## apt-cache search svg | grep qt
+## ```
 ##
 
 libqt5svg5
