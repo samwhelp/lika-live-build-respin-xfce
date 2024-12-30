@@ -74,6 +74,15 @@ adwaita-icon-theme
 
 
 ##
+## ## Package / Theme / dmz
+##
+
+dmz-cursor-theme
+
+
+
+
+##
 ## ## Package / Theme / tango
 ##
 
@@ -146,4 +155,4 @@ materia-gtk-theme
 ## ## Package / Theme / orchis
 ##
 
-orchis-gtk-theme
+#orchis-gtk-theme
