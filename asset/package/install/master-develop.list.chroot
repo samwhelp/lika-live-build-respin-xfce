@@ -20,6 +20,9 @@ xorriso
 squashfs-tools
 genisoimage
 
+debootstrap
+parted
+
 dkms
 
 tree
